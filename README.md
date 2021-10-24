@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on with others
 - ❤ In my free time I usually learn new computer languages online, wandering on Facebook and Youtube and play video games
 - 📫 How to reach me ...
-
+  + my personal Facebook: https://www.facebook.com/phanminhnhut.114/
+  + my personal email: phanminhnhut.114@gmail.com
 <!---
 PMNhutt/PMNhutt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
