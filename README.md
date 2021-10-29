@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning new stuff that relate to my job or anything that I think it's great :D 
 - 🌱 I’m currently learning Software Engineering at FPT University HCM City
 - 💞️ I’m looking to collaborate on with others
-- ❤ In my free time I usually learn new computer languages online, wandering on Facebook and Youtube and play video games
+- ❤ In my free time I usually learn new computer languages online, wandering on Facebook and Youtube if there's anything special relate to my work.
 - 📫 How to reach me ...
   + my personal Facebook: https://www.facebook.com/phanminhnhut.114/
   + my personal Email: phanminhnhut.114@gmail.com
